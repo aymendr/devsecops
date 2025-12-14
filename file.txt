@@ -4,9 +4,3 @@ line 3
 line 4
 Bonjour
 salem
-
-
-
-
-
-line5 
